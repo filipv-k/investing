@@ -25,7 +25,7 @@ Four parts, and the split between them is the whole design:
 | --- | --- | --- |
 | **Profile** + **Watch metrics** + **Upcoming events** | edited in place | snapshot facts, stance, conviction, position, the numbers to refresh, the calendar |
 | **Thesis** | edited in place, versioned | the argument: one-liner, full case, testable **pillars**, a valuation view, pre-committed **kill criteria** |
-| **Validation Log** | append-only, newest first | is the *thesis* working? each pillar scored confirming ✅ / neutral ➖ / contradicting ❌ |
+| **Validation Log** | append-only, newest first | is the *thesis* working? each pillar scored confirming ✅ / neutral ➖ / contradicting ❌. Lower cadence, deeper |
 | **Analysis Log** | append-only, newest first | routine refresh: price, metrics, news. Higher cadence, shallower |
 
 Deep-dived files add three more sections below the logs:
