@@ -5,37 +5,38 @@
 - **Sector / Industry:** Communication Services / Internet & Cloud — search and video advertising, cloud infrastructure, AI models
 - **Currency:** USD
 - **Date added:** 2026-08-04
-- **Stance:** hold
+- **Stance:** hold — **add zone triggered 2026-10-29** (staged add recommended, not yet executed)
 - **Conviction:** medium
 - **Position (if held):** 15 sh, avg cost $354.55 (10 @ $371.49 on 2026-07-15; 5 @ $320.68 on 2026-07-23)
-- **Price alerts / levels to watch:** add zone ≤24x forward EPS (≈$320 in Oct 2026; the level rises ~6% a quarter while estimates keep growing), $317.69 (post-Q2 low close 2026-07-23), $354.55 (avg cost), $377.65 (rebound high close 2026-08-04), $402.12 (all-time-high close 2026-05-13 — no adds above ~30x, ≈$400 today), ~$429 (street average PT, range $340–515); Q3 earnings ~2026-10-27/28 (unconfirmed)
+- **Price alerts / levels to watch:** add zone ≤24x forward EPS (≈$312 on an NTM ex-gains estimate of ~$13.0 — **price is below it**), $270.70 (52-week low, intraday 2026-10-30), $279.84 (last close 2026-10-30), $320.68 (second-lot cost, now resistance), $354.55 (avg cost), ~$407 (street average PT, range $325–500), $402.62 (all-time-high close 2026-05-13); no adds above ~30x NTM (≈$390). Next hard date: Q4/FY26 results + **2027 capex guidance**, ~early Feb 2027
 
 ## Watch metrics
-_Latest value in brackets (Q2 2026 unless noted)._
-- Search & other revenue growth YoY [+17%], split into paid clicks [+13%] and cost-per-click [+3%]
-- YouTube ads growth [+13%]; subscriptions, platforms & devices growth [+15%]; paid subscriptions [350M, Q1]
-- Google Cloud revenue growth [+82%], operating margin [35.6%], backlog [$514B]
-- Mix: advertising share of revenue [68.1%]; Cloud share of operating income [21.6%]
-- Operating margin [34.0%]; depreciation growth [+42%]
-- Capex [$44.9B; FY26 guide $195–205B] vs. operating cash flow [$39.1B] → free cash flow [−$5.9B; trailing twelve months (TTM) $53.3B]
-- Funding: share count [12,230M, +1.2% YTD], shares sold through the at-the-market (ATM) program, long-term debt [$98.2B], purchase commitments [$707B]
-- EPS excluding gains on equity stakes [$2.85, +28% YoY, vs. $9.11 reported]; P/E on that basis vs. history [32x TTM, ~25x next twelve months]
-- Gemini scale: app monthly users [950M], API tokens per minute [22B], AI Mode monthly users [>1B]
-- Personnel changes — AI leadership [reshuffle 2026-08-05]
+_Latest value in brackets (Q3 2026 unless noted). Arrow = direction vs. the prior quarter._
+- Search & other revenue growth YoY [+12%, ↓ from +17%], split into paid clicks [+8%, ↓ from +13%] and cost-per-click [+4%, ↑ from +3%]
+- **AI Mode monetization vs. traditional search** [management: "lower", first explicit admission — new metric, Q3 call]
+- YouTube ads growth [+9%, ↓ from +13%]; subscriptions, platforms & devices growth [+11%, ↓ from +15%]; YouTube Music + Premium subscribers [>150M incl. trials]
+- Google Cloud revenue growth [+103%, ↑ from +82%], operating margin [36.2%], backlog [$560.8B Cloud / $567.7B total, 55% within 24 months]
+- Mix: advertising share of revenue [64.3%, from 72.5% a year ago]; Cloud share of operating income [27.4%]
+- **Traffic acquisition costs** [$16.4B, +10% vs. advertising revenue +10.6% → 20.0% of advertising revenue, flat on 20.1%] — the test for whether Android-to-iOS share drift is costing Google anything; Android browsing share [69.3% worldwide, 40.7% US, trailing 12 months — see Appendix A7]
+- Operating margin [31.8%]; depreciation growth [+45% over nine months]
+- Capex [$51.4B; FY26 guide **unchanged** at $195–205B → Q4 implied $63–73B] vs. operating cash flow [$42.3B] → free cash flow [−$9.1B, second negative quarter; TTM $19.7B, from $53.3B at Q2]
+- Funding: share count [12,294M, **+1.7% YTD ≈ +2.3% annualized — kill criterion at the line**], ATM drawn [$12.4B of $40B; $27.6B left], long-term debt [$125.1B, from $46.5B at 2025-12-31], purchase commitments [$802.1B], leases not yet commenced [$130.5B]
+- EPS excluding gains/losses on equity stakes [$2.67, +22% YoY, vs. $2.12 reported]; P/E on that basis [25.6x TTM, ~21.5x NTM]
+- Gemini scale: app users [1B], API tokens per minute [32B, +40% QoQ], visual searches [>50B/month], knowledge-work seats sold [>100M]
+- Equity stakes: non-marketable [$128.2B measurement-alternative, "primarily" Anthropic] / marketable equity [$90.4B, mostly SpaceX]
 
 ---
 
 ## Upcoming events / Catalysts
-_Last updated 2026-10-02. Dated milestones the thesis gets tested against._
+_Last updated 2026-11-01. Dated milestones the thesis gets tested against._
 
 | Date | Event | What to watch / thesis link |
 | --- | --- | --- |
-| **~2026-10-27/28** (not yet confirmed by Alphabet; calendars differ) | **Q3 2026 results** | Pillar 1: Search growth against the first tough comparison (Q3'25 was +15%; CFO flagged the lapping plus a slight FX headwind), paid clicks vs. cost-per-click. Pillar 2: Cloud growth vs. +82%, margin after rented third-party capacity and Wiz. Pillar 5: capex (H2 guidance implies ~$57–62B a quarter), free cash flow, ATM shares sold, any 2027 capex figure. Headline EPS will be noisy: SpaceX fell 13% in Q3 (≈ −$12B mark) |
-| **Oct 2026 or later** (reported target, unconfirmed) | **Anthropic IPO** | Puts a public price on the largest part of the $124.3B non-marketable stake — confirms or deflates ~$77B of Q2's paper gain; makes the stake sellable over time (a funding source other than new shares); also a health check on the customer behind ~39% of Cloud backlog |
+| **~2026-11-09 to 11-20** (press reports, not company-confirmed) | **Anthropic IPO — public S-1 filed 2026-10-26, ticker ANT** | The single biggest near-term swing factor. Marketing reportedly starts the week of Nov 9, pricing ~Nov 17–20, trading possibly before Thanksgiving. Puts a public price on the $128.2B non-marketable stake (last round: $965B post-money, May 2026; press speculation up to ~$2T) and eventually makes it sellable — a funding source other than new shares. Also a solvency check on the customer behind ~36% of Cloud backlog |
+| **Q4 2026** | Cloud margin headwind from rented third-party capacity ramping (SpaceX GPU contract at full rate from Oct 2026); $27.6B of ATM capacity left; GFiber deconsolidation still not closed; SpaceX sale restrictions begin to lapse | Pillar 2 margin (watch for a drop below ~33%); share-count creep vs. funding from stake sales |
+| **~early Feb 2027** | **Q4 / FY2026 results + 2027 capex guidance** | Now *the* event for the thesis. CFO deferred the 2027 number to this call. Press characterization (not guidance) is >$300B vs. ~$200B in 2026. Also: whether Q4 capex really hits the $63–73B the guide implies, the free-cash-flow path, whether buybacks resume |
 | **Late 2026 / early 2027** (not scheduled) | **D.C. Circuit oral argument, US v. Google (search)** | DOJ cross-appeal asks for Chrome divestiture and a ban on default-placement payments; Google asks to overturn liability. Kill-criteria item (see Appendix — Legal) |
-| **Q4 2026** | ATM share sales under way; sale restrictions on ~$80B of SpaceX shares start to lapse (timing undisclosed; a standard 180-day IPO lock-up would end ~Dec 2026); GFiber deconsolidation | Share-count creep vs. funding from stake sales; Other Bets revenue and losses both shrink optically |
-| **~early Feb 2027** | **Q4 / FY2026 results + 2027 capex guidance** | The number that defines pillar 5: how far above $195–205B, the free-cash-flow path, whether buybacks stay suspended |
-| **2027** | TPU hardware revenue ramp; Anthropic's ~5 GW of TPU capacity starts coming online | "Vast majority" of existing TPU system-sale agreements is recognized in 2027 — lumpy hardware revenue inside Cloud, margin undisclosed |
+| **2027** | TPU hardware revenue ramp; Anthropic's ~5 GW of TPU capacity comes online | "Vast majority" of existing TPU system-sale agreements is recognized in 2027 — lumpy hardware revenue inside Cloud, margin undisclosed. Q3 already had a "meaningful" TPU contribution |
 | **2029-05-15** | Mandatory convertible preferred converts | 43–54M new shares (capped calls offset part of the dilution above ~$444, up to ~$533) |
 
 ---
@@ -43,90 +44,124 @@ _Last updated 2026-10-02. Dated milestones the thesis gets tested against._
 ## Thesis
 _Edited in place. When the argument itself changes, bump the version and note why in the Validation Log._
 
-**Version:** v1 · **Last revised:** 2026-10-02 · **Overall conviction:** medium
+**Version:** v2 · **Last revised:** 2026-11-01 · **Overall conviction:** medium
 
 **One-line thesis:**
-> Alphabet now runs on two engines — Search (+17%) and Google Cloud (+82%, 35.6% margin, $514B backlog) — so on the income statement it could absorb a gradual AI-driven erosion of ads. But that ad decline has not appeared, and the second engine is being bought with all of the free cash flow (capex ~$200B, new equity and debt). The thing to underwrite is the return on AI capex, not the death of search. Hold; add at ≤~24x forward earnings (≈$320 today), not near highs.
+> Alphabet runs on two engines, and after Q3 2026 the second one is doing most of the work: Cloud +103% at a 36.2% margin now supplies 27% of operating income and 80% of the incremental profit, while Search decelerated to +12% with management conceding for the first time that AI Mode monetizes worse than classic search. The income statement is fine; the cash statement is not — free cash flow was −$9.1B for a second straight quarter and TTM free cash flow has fallen from $53B to $20B. The market repriced that on 2026-10-29 with a −12.6% day. At ~21.5x NTM ex-gains earnings the 24x add trigger is met, with the Anthropic IPO a three-week binary on top.
 
 **Full argument:**
-The idea I started from: AI erodes Google's ad business, and the other pillars (Cloud, Gemini, Workspace, YouTube) are big enough to make up for it. The numbers through Q2 2026 (reported 2026-07-22) say the first half of that sentence has not happened. Search & other revenue growth accelerated from +10% in Q1'25 to +17–19% over the last three quarters; paid clicks are growing +13% (vs. +2% in Q1'25); queries are at an all-time high; AI Mode has passed 1B monthly users. Total advertising grew +14%, and the only shrinking line is Network (−1%, 6% of revenue). So far AI has expanded Search instead of cannibalizing it.
+The idea I started from was that AI erodes Google's ad business and the other pillars make up for it. Through Q2 2026 the first half had not happened at all. Q3 is the first quarter that partially vindicates it — not as a decline, but as a monetization drag. Search & other grew 12% to $63.35B, down from +17%, and was essentially flat sequentially ($63.30B in Q2). Paid clicks decelerated hard, +8% against +13% in each of the prior two quarters, while cost-per-click was +4% (partly currency translation). Management attributed the slowdown mostly to mechanical factors — FX as the largest driver, APAC retail advertisers hit by the EU de minimis change, a World Cup-inflated Q2 comparison, and lapping about three points of prior-year acceleration with "a couple more points" to lap in Q4 — but Schindler also said lower monetization in AI Mode weighed on growth. That is the first time the company has conceded the mechanism, and it is the one that matters: queries keep rising (AI Mode queries average ~3x longer, >50B visual searches a month), yet each one earns less. Pillar 1 still clears its confirm bar (+12% vs. ≥10%), but its quality is lower than a quarter ago.
 
-The second half is real, and it is mostly one pillar. In a year advertising fell from 74% to 68% of revenue — not because ads shrank but because Cloud outgrew them: $24.8B in Q2 (+82%), operating income $8.8B (margin 35.6%, up from 20.7%), 22% of group operating income vs. 9% a year earlier, and the source of 48% of incremental revenue and 63% of net incremental operating income. Backlog (contracted revenue not yet recognized) is $514B, just over half of it due within 24 months. The consumer pillars are steady compounders, not second engines: YouTube ads $11.1B (+13%), subscriptions, platforms & devices $12.9B (+15%, 350M paid subscriptions). Gemini is a capability more than a reported revenue line — 950M monthly app users, 22B API tokens a minute, ~90% of the Fortune 100 on Gemini Enterprise — and its money shows up inside Cloud, Google One and Search. Workspace is not disclosed separately ("strong double-digit growth") and cannot be validated on its own. Waymo (500k+ paid rides a week) is an option that still costs ~$2B a quarter.
+The second engine is now unambiguous. Cloud revenue was $30.7B (+103%), operating income $11.1B at a 36.2% margin (23.7% a year earlier), 27.4% of group operating income against 11.5%. Of the $9.3B of YoY operating-income growth, Cloud supplied $7.5B and all of Google Services $5.6B, with Alphabet-level shared AI R&D taking back $3.2B. Cloud backlog reached $560.8B, up ~$47B in the quarter, and the share expected to convert within 24 months rose from ~50% to 55%. Pichai framed the group as being on a half-trillion-dollar revenue run rate. Pillar 4 also improved: Gemini app users passed 1B, tokens 32B a minute (+40% QoQ, >4x YoY), >100M knowledge-work seats sold. The consumer pillars went the other way and now sit below their own confirm thresholds — YouTube ads +9% and subscriptions, platforms & devices +11% — which is a downgrade, not a break.
 
-The cost of the second engine is the new core risk. Capex was $44.9B in Q2, more than operating cash flow ($39.1B), so free cash flow turned negative (−$5.9B). The 2026 capex guide is $195–205B (raised twice), 2027 will be "significantly" higher, and consensus has free cash flow negative through 2027. To fund it Alphabet stopped buybacks ($0 in H1'26 vs. $28.3B in H1'25), raised $49.6B of equity in June (including $10B from Berkshire Hathaway) with a further $40B ATM program, and took long-term debt from ~$16B to ~$100B in a year. Contractual purchase commitments jumped to $707B (from $233B one quarter earlier), plus $85B of data-center leases not yet started — more than the $520B of backlog they are meant to serve. Reported EPS ($9.11 in Q2) is inflated by $6.26 of unrealized gains on the Anthropic and SpaceX stakes; the underlying figure is $2.85.
+The cost of the second engine is where the thesis is actually being decided, and Q3 made it worse. Capex was $51.4B (40.3% of revenue, +114% YoY) against $42.3B of operating cash flow, so free cash flow was −$9.1B; about $5.2B of that was the one-off EC Android fine payment, so roughly −$3.9B underlying. TTM free cash flow is $19.7B, down from $53.3B one quarter earlier. The FY26 capex guide was *held* at $195–205B rather than raised — notable, and Microsoft did the same thing the next day — but nine-month capex of $132.0B implies $63–73B in Q4, a 23–42% sequential step-up that looks hard to hit; and the CFO deferred the 2027 figure to the Q4 call while repeating that it rises "significantly". Funding moved from equity to debt and the ATM: long-term debt is $125.1B (from $46.5B at year-end), Q3 alone brought $45B of USD notes at a 5.55% weighted average and AUD notes at 5.82%; $12.4B of the $40B ATM was drawn (36M shares), taking the share count to 12,294M, +1.7% in nine months — about 2.3% annualized, which touches the >2% kill criterion. Buybacks remain at zero with $69.5B authorized and unused. Purchase commitments are $802.1B (from $707.0B at June 30) plus $130.5B of leases not yet commenced (from $85.2B), against $567.7B of backlog they are meant to serve.
 
-Other risks: (1) the model race — Pichai concedes a gap in agentic coding, DeepMind's leadership was reshuffled on 2026-08-05 (Hassabis stepped back from day-to-day management, Jeff Dean left), and OpenAI/Anthropic price cuts on 2026-09-23 raise the risk that inference becomes a commodity; (2) concentration — about $200B of the backlog (~39%) is one customer, Anthropic, in which Alphabet owns ~14% and is investing up to $40B; (3) antitrust — both US remedy rulings were behavioral (no Chrome or ad-exchange divestiture), but the DOJ's cross-appeal for harsher search remedies is pending; (4) Q3 starts lapping the Search acceleration.
+Reported EPS of $2.12 is noise in the other direction this quarter: a $8.66B pre-tax **loss** on equity securities (SpaceX marked down ~$12.4B, Anthropic marked *up* $3.0B) cost about $0.55 a share after tax. Excluding it, $2.67, up 22% YoY — a genuine miss against the ~$3.02 the street wanted, and Alphabet's first combined revenue and earnings miss in nearly four years. The stock fell 12.64% on 2026-10-29, shedding ~$482B of market value, reportedly the second-largest single-day market-cap loss on record, and closed the week at $279.84, −30.5% from the May high.
+
+Other risks unchanged or improved: Network revenue actually turned positive (+1.4%) for the first time in the series; both US antitrust remedy rulings remain behavioral; the DOJ search cross-appeal is still pending. Concentration got slightly better arithmetically — Anthropic's $200B commitment is now ~36% of backlog rather than ~39% — but it is about to become a public company whose price Alphabet's balance sheet marks to.
 
 ### Pillars
 1. **Search stays a growth business through the AI transition** — AI Overviews and AI Mode add more queries and monetizable intent than chatbots take away.
    - *Confirms if:* Search & other growth ≥10% YoY; paid clicks growing; cost-per-click not negative; AI Mode usage rising; third-party share data stable
    - *Breaks if:* Search growth <5% for two consecutive quarters, or paid clicks turn negative while AI-surface usage keeps rising (the first hard evidence of cannibalization); a structural remedy on distribution (Chrome divestiture, ban on default payments)
-   - *Current status:* confirming — +17% (Q2'26), paid clicks +13% / cost-per-click +3%, AI Mode >1B monthly users, 500k advertisers on AI Max; Evercore survey (Aug 2026): 78% name Google their primary search engine, up from a 70% low. Watch: price growth fading (cost-per-click +8% → +3%) as volume shifts to longer AI-style queries; Q3 laps +15%; ChatGPT at ~0.9–1B weekly users with ads since Jan 2026
+   - *Current status:* **confirming but weakening** — +12% (Q3'26, from +17%), flat sequentially; paid clicks +8% (from +13%), cost-per-click +4%. Usage is not the problem: AI Mode queries ~3x longer, >50B visual searches a month. Monetization is — management conceded AI Mode monetizes lower than classic search. Mechanical drags: FX (largest), EU de minimis change on APAC retail, World Cup comparison, ~3 points of lapping with ~2 more in Q4. Watch: whether Q4 comes in near +10% or below it
 
 2. **Cloud is a genuine second profit engine** — big, fast and profitable enough to carry group growth.
    - *Confirms if:* Cloud growth ≥40% with operating margin ≥30%; backlog rising; growth holds excluding TPU hardware sales
    - *Breaks if:* growth <30% or margin <25% for two consecutive quarters; backlog falls QoQ; the Anthropic commitment is cut or renegotiated
-   - *Current status:* confirming — +82%, margin 35.6%, backlog $514B (+$52B QoQ), customers exceeding commitments by >50%, growth "accelerated meaningfully" even excluding first TPU system sales. Watch: margin dip from rented capacity (SpaceX contract ≈ $0.9B a month at full rate from Oct 2026 — roughly 9–11% of Cloud revenue) and Wiz integration; ~39% of backlog from Anthropic; still supply-constrained
+   - *Current status:* **confirming, emphatically** — +103% to $30.7B, operating income $11.1B at 36.2%, backlog $560.8B (+$47B QoQ) with 55% inside 24 months (was ~50%), growth "very, very strong" even excluding TPU system sales. The only line that beat consensus. Watch: management guided to a near-term margin headwind in Q4 as rented third-party capacity ramps; ~36% of backlog is Anthropic
 
 3. **YouTube and subscriptions compound in the low-to-mid teens** — the consumer franchise keeps diversifying away from search ads.
    - *Confirms if:* YouTube ads ≥10%; subscriptions, platforms & devices ≥12%; paid subscriptions growing
    - *Breaks if:* either line <5% for two consecutive quarters; Play Store fees visibly hit by the Epic remedies or the EU Digital Markets Act (DMA)
-   - *Current status:* confirming, steady rather than accelerating — YouTube ads +13% (World Cup-aided), subscriptions, platforms & devices +15% (down from +19–21%), 350M paid subscriptions, YouTube >$60B revenue in FY25. Together a ~$96B run-rate adding ~$12B a year: useful, not an offset for a $243B Search line
+   - *Current status:* **downgraded to neutral** — both lines fell below their confirm thresholds for the first time: YouTube ads +9% (from +13%), subscriptions/platforms/devices +11% (from +15%). Living-room viewing is now over a third of YouTube ad revenue; >150M YouTube Music + Premium subscribers including trials. No total paid-subscription count was given this quarter (350M at Q1). Not broken — well above the <5% break line — but it has stopped being a reliable low-teens compounder. Ashkenazi credited the +11% to YouTube Music/Premium and Google One AI plans and named neither Play nor devices, while the Epic-settlement Play fee cuts took effect 2026-06-30 in the US/UK/EEA and 2026-09-30 in Australia/Japan — so the subscription half is carrying the line and Play is a drag that phases in further through Sept 2027. See Appendix A6
 
 4. **Gemini stays at or near the frontier** — the full stack (own chips, own models, own distribution) keeps Google competitive without having to win every benchmark.
    - *Confirms if:* Gemini app and API usage keep growing; Gemini 3.5 Pro / Gemini 4 land competitively; Cloud AI demand holds; key researchers stay
    - *Breaks if:* usage growth stalls; Gemini 4 slips or disappoints; enterprise share loss shows up in Cloud growth; a second wave of senior departures
-   - *Current status:* neutral — usage is strong (950M monthly users, daily users tripled YoY, API tokens 7B → 22B a minute in three quarters), but management concedes a gap in agentic coding, leadership was reshuffled on 2026-08-05, and rivals halved token prices on 2026-09-23. Hedge: ~14% of Anthropic plus its $200B cloud commitment means Alphabet earns even where Claude wins
+   - *Current status:* **upgraded to confirming** — app users 1B (from 950M), tokens 32B a minute (+40% QoQ, >4x YoY), >100M knowledge-work seats sold, and Cloud's +103% is the demand proof. No second wave of departures since the 2026-08-05 reshuffle. The agentic-coding gap management conceded in Q2 was not revisited on this call
 
 5. **AI capex earns its return and funding stays manageable** — spending converts into revenue fast enough that free cash flow recovers without serial dilution.
    - *Confirms if:* incremental operating income keeps pace with capex; backlog converts on schedule; free cash flow troughs in 2026–27 and recovers; no equity raise beyond the announced ATM; buybacks resume
    - *Breaks if:* another common-equity raise; share count growing >2% a year; capex guided up while Cloud growth or margin falls; TTM free cash flow still negative in 2028 without accelerating revenue
-   - *Current status:* neutral, cash side leaning contradicting — returns so far look good (annualized operating income is up $38B YoY against $67B of capex in the prior-year period; management claims payback under two years on AI servers), but capex is growing +100% vs. operating income +30%, Q2 free cash flow was −$5.9B, commitments are $707B, buybacks are suspended and the share count is up 1.2% YTD
+   - *Current status:* **contradicting on the cash side** — free cash flow −$9.1B (−$3.9B excluding the EC fine payment), second negative quarter; TTM free cash flow $19.7B vs. $53.3B a quarter ago; capex 40.3% of revenue; commitments $802.1B plus $130.5B of uncommenced leases; long-term debt $125.1B; ATM drawn $12.4B and share count +2.3% annualized (**criterion at the line**); buybacks still zero. The returns side is holding: Cloud supplied $7.5B of the $9.3B YoY operating-income increase and backlog conversion accelerated to 55%/24mo. Two mitigants worth crediting: the capex guide was *held* rather than raised, and the dilution criterion is partly mechanical (~$30B of ATM was earmarked to cover tax withholding on employee stock, replacing net share settlement)
 
 ### Stress test — could the other pillars offset a real ads decline?
-_The original question, answered with Q2'26 run-rates. Search & other TTM revenue: $243.3B. Assumption (mine): each lost Search dollar costs 60–70 cents of operating income — traffic acquisition costs (~20% of ad revenue) fall with it, most other costs do not._
+_The original question, re-run on Q3'26 run-rates. Search & other TTM revenue: $250.2B. Assumption (mine): each lost Search dollar costs 60–70 cents of operating income — traffic acquisition costs (~20% of ad revenue) fall with it, most other costs do not._
 
-| If Search revenue fell | Revenue lost | Operating income lost (est.) | Cloud revenue needed to replace that profit (at today's 35.6% margin) | Against Cloud today ($99B revenue / $35B operating income run-rate) |
+| If Search revenue fell | Revenue lost | Operating income lost (est.) | Cloud revenue needed to replace that profit (at today's 36.2% margin) | Against Cloud today ($122.8B revenue / $44.5B operating income run-rate) |
 | --- | --- | --- | --- | --- |
-| 10% | $24B | $15–17B | $41–48B | ≈ one year of Cloud's current growth (+$45B revenue, +$24B operating income a year) |
-| 20% | $49B | $29–34B | $82–96B | Cloud roughly doubles |
-| 30% | $73B | $44–51B | $123–144B | Cloud at ~2.3–2.5× — most of the $514B backlog converted with margins intact |
+| 10% | $25.0B | $15.0–17.5B | $41.5–48.4B | ≈ eight months of Cloud's current growth (+$62B revenue, +$30B operating income a year) |
+| 20% | $50.0B | $30.0–35.0B | $82.9–96.7B | ≈ 14 months of Cloud's current growth |
+| 30% | $75.0B | $45.0–52.5B | $124.4–145.1B | Cloud at ~2x — about a quarter of the $560.8B backlog converted with margins intact |
 
-- **Revenue: yes, and already visible.** Advertising went from 74.0% to 68.1% of revenue in a year without ads shrinking; Cloud alone added more revenue YoY (+$11.1B in the quarter) than Search (+$9.1B).
-- **Operating income: yes for a gradual erosion, no for a break.** At today's pace Cloud adds ~$24B of operating income a year — enough to cover Search shrinking roughly 10–15% a year. A fast 30% drop would outrun it.
-- **Free cash flow: no.** Search profit needs little capital; Cloud profit needs a lot. Cloud gets "just over half" of 2026 ML compute (CFO, Feb 2026) — on the order of $100B of the ~$200B capex — to earn a $35B operating-income run-rate. Swapping Search dollars for Cloud dollars lowers cash generated per dollar of profit, which the cash-flow statement already shows: TTM free cash flow $53B vs. $73B in FY25, while operating income rose from $129B to $148B.
-- **The remaining pillars are too small or unmeasurable to count.** YouTube ads plus subscriptions, platforms & devices: ~$96B run-rate adding ~$12B a year. Gemini and Workspace: no separately reported revenue. Other Bets: −$1.8B a quarter.
-- **Verdict:** the multi-pillar claim holds for the income statement, with Cloud doing nearly all the work. It does not hold for free cash flow per share, and the ad decline it is meant to offset is not in the numbers yet.
+- **The offset capacity improved as the need for it appeared.** Cloud now adds ~$30B of operating income a year, up from ~$24B at Q2 — enough to absorb Search shrinking ~17–20% a year, against 10–15% one quarter ago. Q3 is the first quarter where both halves of the original idea showed up at once: a Search monetization drag *and* a demonstrably larger offset.
+- **Revenue: yes, and accelerating.** Advertising fell from 72.5% to 64.3% of revenue in a year without ads shrinking. Cloud added $15.6B of revenue YoY against Search's $6.8B — more than double.
+- **Operating income: yes, and Cloud is now the dominant source.** Cloud contributed $7.5B of the $9.3B YoY increase; Services added $5.6B and Alphabet-level shared AI R&D took back $3.2B.
+- **Free cash flow: no, and worse than at Q2.** Search profit needs little capital; Cloud profit needs a lot. TTM operating income rose to ~$157B while TTM free cash flow fell to $19.7B. Swapping Search dollars for Cloud dollars lowers cash generated per dollar of profit, and the swap is now visibly under way.
+- **The remaining pillars have weakened.** YouTube ads plus subscriptions, platforms & devices: ~$102B run-rate, but growth dropped to +9%/+11% — adding ~$9B a year, not ~$12B. Other Bets: −$2.0B a quarter and widening (Waymo expansion, compensation).
+- **Verdict (unchanged in direction, firmer in degree):** the multi-pillar claim holds for the income statement, with Cloud doing almost all the work. It does not hold for free cash flow per share. And the ad decline it was meant to offset has now made its first appearance — as lower monetization per query, not fewer queries.
 
 ### Valuation — what has to be true
-_(as of 2026-10-01 close)_ Price $338.24; market cap ~$4.14T (12.23B shares); enterprise value ~$4.0T.
-- **The headline P/E of 17x is not usable.** TTM EPS of $19.91 includes $9.44 of gains on equity stakes. Excluding them: TTM $10.47 → **32x**; FY26 consensus $11.81 → 28.6x; next twelve months (NTM) ~$13.4 → **~25x**; EV/EBIT ~27x TTM.
-- **Free cash flow gives no support.** TTM $53.3B → 1.3% yield (~78x). Consensus: negative through 2027 (≈ −$32B in 2027), ≈ $136B only by 2029 — a ~3% yield on 2029 cash flow at today's price.
-- **Equity stakes ≈ $218B** — non-marketable equity $124.3B (primarily Anthropic, ~14%) and SpaceX $94.1B at June 30 (≈ $82B at the 2026-09-30 price) — ≈ $18 a share, ~5% of market cap. Real, but volatile and partly restricted from sale.
-- **Priced in:** mid-to-high-teens EPS growth for several years, i.e. Search holding ~10%+ growth, Cloud compounding 40%+ with margins ≥30% despite the depreciation wave, capex intensity peaking by ~2028. I am not betting on more than consensus: at ~25x NTM the stock is fairly priced for the base case, and the edge is only in buying dislocations (−7% on a beat in July, −4% on the leadership reshuffle, −4% on rivals' price cuts).
-- **Per-share drag to model:** diluted shares fell 1.7% in 2025 on $45.7B of buybacks; in 2026 they are rising (+1.2% in H1, before the ATM adds up to ~1% and the preferred converts into 43–54M shares in 2029). That is a ~3-point-a-year swing in EPS growth against the 2021–25 formula.
-- **Fair-value frame (judgment, not a model):** 24–29x NTM EPS ≈ **$320–390** today. Price sits in the lower third → hold. Add at ≤24x NTM (≈$320 today, the July low) *if* Q3 confirms pillars 1–2; no adds above ~30x (≈$400 today, the all-time high). The triggers are multiples, not fixed prices — see below. Street: Strong Buy, 61 analysts, average PT ~$429 (range $340–515).
+_(as of 2026-10-30 close)_ Price $279.84; market cap ~$3.44T (12.29B shares); enterprise value ~$3.33T.
+- **Headline multiples are unusable in both directions.** Trailing GAAP P/E of ~14.6x includes $8.21 a share of net equity-stake gains over the last twelve months; forward screens showing ~17x are built on consensus EPS that still embeds the $127B of 2026 mark-ups. On a clean basis: TTM EPS ex-gains $10.95 → **25.6x**; NTM ex-gains ~$13.0 (my build: Q4'26 ~$3.2 plus 2027 quarters growing high-teens) → **~21.5x**. EV/EBIT ~21x.
+- **Free cash flow gives no support at all now.** TTM $19.7B → 0.6% yield (~175x). Consensus had free cash flow negative through 2027 before this print; Q3 alone came in ~$12B below the street's +$2.7B estimate for the quarter.
+- **Equity stakes ≈ $218.6B** — non-marketable $128.2B (measurement alternative, "primarily" Anthropic) plus $90.4B of marketable equity (mostly SpaceX, marked down $12.4B in the quarter) — ≈ $17.8 a share, ~6.4% of market cap, a higher proportion than at Q2 because the share price fell further than the stakes did. The Anthropic IPO within weeks converts the largest piece from an estimate into a price.
+- **What the price now embeds.** At 21.5x NTM the market is paying less for Alphabet than it did in July ($338 ≈ 25x) while the business grew faster. The derating is the capex/cash question, not the growth question: revenue +25%, operating income +30%, Cloud +103%, and the multiple fell ~15%.
+- **Per-share drag to model:** diluted shares fell 1.7% in 2025 on $45.7B of buybacks; in 2026 they are up 1.7% in nine months, with $27.6B of ATM capacity left and 43–54M preferred-conversion shares due in 2029. That remains a ~3-point-a-year swing against the 2021–25 formula.
+- **Fair-value frame (judgment, not a model):** 24–29x NTM ex-gains EPS ≈ **$312–377**. Price is ~10% *below* the bottom of that range → **the add trigger set on 2026-10-02 is met**. Street: Strong Buy, 58 analysts, average PT ~$407 (range $325–500), after cuts from Citi, JPMorgan, Piper Sandler, Deutsche Bank and BofA.
+- **How I would actually act (judgment):** add in tranches, not at once. The case for adding now: the derating is in pillar 5, the pillar with the most information still to come, and the price already discounts a bad answer. The case for waiting: the two biggest unknowns both resolve soon — the Anthropic IPO within ~3 weeks (a public mark on $128.2B and on the credit behind 36% of backlog) and the 2027 capex number in early February. A first tranche here, a second after the IPO prices, a third after the February guidance, matches the cash outlay to the information. Hard stop on adding: a Q4 print with Search below +10% or Cloud margin below 33%.
 
-#### What a flat price would take (added 2026-10-02)
-- **Earnings excluding stake gains are growing ~28%.** Q2'26 $2.85 vs. $2.23 a year earlier; NTM consensus ~$13.4 vs. $10.47 TTM; FY26 consensus $11.81 vs. $9.28 for FY25 on the same basis (+27% — the "+9%" headline growth compares against a 2025 figure that included $1.53 of gains).
-- **12-month price change ≈ EPS growth + change in the multiple.** Multiple holds at 32x trailing → ~$430, which is the street's average target. Price flat at $338 → trailing multiple falls to 25x, forward to ~21–22x. A flat year is therefore a bet that the multiple shrinks as fast as earnings grow (by about a fifth), not that nothing happens.
-- **Expectation:** range-bound into February 2027 is reasonable — closes have stayed between ~$330 and ~$355 since mid-August, and what compresses the multiple (negative free cash flow, rising capex, new shares, model-race headlines) is not resolved before the 2027 capex guidance. Flat for a full year is not the base case; it needs that derating or an earnings disappointment.
-- **What ends the range — up:** Q3 with Search in the low-to-mid teens against the tough comparison and Cloud margin above ~33%; a 2027 capex figure that shows a ceiling; funding from stake sales (Anthropic IPO, SpaceX lock-up) or buybacks resuming. **Down:** Search growth under 10%; another capex raise while Cloud margin falls; a further equity raise.
-- **Consequence for adding:** time does the work a price drop would. If estimates keep rolling forward at this pace, 24x NTM is ~$322 today, ~$343 in one quarter and ~$365 in two — one flat quarter reaches the add zone. Two conditions: pillars 1–2 still confirming, and the multiple measured on current estimates (a cut for depreciation, rented capacity or Search comparisons moves the level down).
+#### Risks to an add at ~$280 (ranked, added 2026-11-01)
+_Ranked by expected damage to a shareholder, not by how loud the headline is. The first three are the ones that destroy per-share value rather than just compress the multiple._
+
+| # | Risk | Why it ranks here | Earliest tell |
+| --- | --- | --- | --- |
+| 1 | **2027 capex, disclosed blind in February** | Analyst projections cluster at **~$300B** (Wolfe ~$330B) against ~$200B in 2026. On FY26 operating cash flow of ~$177B growing 15–22%, that implies 2027 free cash flow of **−$84B to −$126B** — versus the ~−$32B consensus that existed *before* this print. Nothing between now and the Q4 call resolves it | Q4 call, ~early Feb 2027 |
+| 2 | **Equity issued at a depressed price** | $27.6B of ATM capacity left and the share count is already +1.7% in nine months (~2.3% annualized). The remaining ATM at $280 is 99M shares (+0.80%) versus 78M at $355 — **27% more dilutive for the same dollars**. If the 2027 gap needs ~$75B of equity, that is 268M shares, **+2.2%**, against +1.7% at July prices. A low price plus an open ATM is the one combination that converts a de-rating into permanent per-share loss | Q4 10-K share count; any new offering announcement |
+| 3 | **Depreciation on assets already built but not yet switched on** | **$145.3B** of property sits in "assets not yet in service" (from $78.6B at year-end) — not yet depreciating. At the disclosed capex mix (~65% servers at ~6-year lives, ~35% data centres at 7–40 years) that is roughly **+$18B a year of extra depreciation**, about **+62%** on the current ~$29B run-rate, or **~3–4 points of operating margin** — arithmetic, not a judgement, and before a dollar of 2027 capex. 9M depreciation is already +45% | Q4 depreciation line; FY27 margin guidance |
+| 4 | **Anthropic: concentration plus a three-week binary** | ~36% of Cloud backlog (~$200B) is one counterparty that Alphabet owns ~14% of and is investing up to $40B in — Alphabet is partly funding its own backlog. The stake carries at **$128.2B on $48.6B of cost ($88.8B of mark-ups)**. An IPO at ~$700B vs. the $965B mark is a ~$35B write-down (~−$2.25/sh after tax); at $1.5–2.0T it is +$71B to +$137B (+$4.54 to +$8.78/sh). Asymmetric in character, not size: a weak print hits the stake, the backlog's credibility and the AI-demand narrative at once | IPO price range, ~week of Nov 9; pricing ~Nov 17–20 |
+| 5 | **Commitments exceed the backlog they serve** | $802.1B of long-term purchase commitments (CFO cited $924B on a broader basis) plus $130.5B of uncommenced leases ≈ **$0.93–1.05T of contracted outflows** against $567.7B of backlog, 55% of it inside 24 months. The obligations run to 2032 (energy take-or-pay to 2054) and are contractual; the backlog is renegotiable. Management says some commitments carry "variable pricing and volume flexibility" but has not quantified it | Any downward revision to backlog, or a renegotiated customer commitment |
+| 6 | **Pillar 1 quality — AI Mode monetization** | Search +12% and decelerating, paid clicks +8% from +13%, and management has now conceded AI Mode monetizes lower. Q4 has ~2 more points of lapping and a larger FX headwind. Below +10% is my own hard stop on adding, on a line that is still half of revenue | Q4 Search growth and paid clicks |
+| 7 | **Cloud margin reversing in Q4** | 36.2% is the single number holding the thesis up. Management guided a near-term headwind as rented third-party capacity ramps — the SpaceX GPU contract alone is ~$2.7B a quarter, **~9% of Q3 Cloud revenue**, at full rate from Oct 2026. TPU hardware sales inside Cloud are lumpy and their margin is undisclosed, so reported Cloud quality is less clean than the headline | Q4 Cloud margin; watch for <33% |
+| 8 | **Sector beta, not a Google-specific bet** | The −12.6% day was followed by Amazon and Intel falling double digits. 21.5x NTM gave no protection going from 25x to 21.5x in a week, and a cash-focused regime could take it to ~18x (last seen 2022). The free-cash-flow yield is **0.6%** | Any hyperscaler print or AI-credit headline |
+| 9 | **Earnings quality in both directions** | Equity stakes are ~$218.6B, **6.4% of market cap** and rising as a proportion as the price falls. Reported EPS swung from $9.11 to $2.12 in two quarters on marks alone. Roughly 6% of what you are buying is marked to model | Any quarter; always reconcile to EPS ex-gains |
+| 10 | **DOJ cross-appeal (2027, not now)** | The one legal risk that matters: a ban on default-placement payments breaks the mechanism that keeps iOS search traffic (see A7). Oral argument is not even scheduled; a ruling is likely 2027. Fines are ~5% of a year's operating income — noise | D.C. Circuit argument date |
+
+**What is *not* a major risk, having checked:** Android platform share (TAC flat at 20.0% of advertising revenue — see A7); the Play Store fee cuts (bounded, known, inside a line that is 11% of revenue — see A6); debt capacity (Moody's Aa2 stable, S&P AA+ stable, leverage ~0.7x, $0 commercial paper drawn, $10B of revolvers undrawn — they can fund 2027 with debt if they choose to, which is precisely why risk #2 is a choice rather than a necessity).
+
+**The structural worry underneath all of it:** the bull case now rests on one line — Cloud, 24% of revenue — carrying the entire story at +103% and a 36.2% margin. If that growth is flattered by lumpy TPU hardware sales and by revenue from a customer Alphabet is itself funding, the "second engine" is less independent than the segment table makes it look. That is the thing to test at Q4, and the reason to stage an add rather than take the position in one trade.
+
+#### What a flat price would take (revised 2026-11-01; supersedes the 2026-10-02 version)
+- The October version of this note said a flat year required the multiple to compress by about a fifth while earnings grew ~28%. **That compression happened in one day instead of a year** — 12.6% on 2026-10-29 plus the 10% slide from the mid-October high. Trailing ex-gains multiple went 32x → 25.6x; forward 25x → 21.5x.
+- Earnings growth ex-gains slowed but did not break: +28% in Q2 → +22% in Q3 ($2.67 vs. $2.19). FY26 ex-gains builds to ~$11.5 (nine months at $8.28 plus ~$3.2), against $9.28 for FY25 — ~+24%.
+- **From here, 12-month price change ≈ EPS growth + multiple change** off a much lower base. Holding 21.5x on ~$15.5 of 2027 ex-gains earnings gives ~$333; re-rating to the 25x of three months ago gives ~$388, roughly the street target. Flat at $280 now requires the multiple to fall to ~18x, which has not happened since 2022.
+- **Expectation:** the range has reset lower, roughly $270–320, and it stays there until the 2027 capex number exists. The Anthropic IPO is the one event that can break it upward before February.
+- **What ends the range — up:** an Anthropic IPO that prices well above the $965B carrying mark (re-rates the stake and opens a non-dilutive funding source); a 2027 capex figure with a visible ceiling; Q4 Search back above ~+12% once FX and the World Cup comparison wash out; buybacks resuming. **Down:** Search below +10%; Cloud margin below 33% as rented capacity ramps; 2027 capex well above $300B with free cash flow still negative; the ATM drawn to its limit.
 
 ### Kill criteria (sell / abandon triggers)
-- Search & other growth <5% YoY for two consecutive quarters, or paid clicks negative while AI Mode usage keeps rising (pillar 1 broken)
-- Cloud growth <30% YoY or operating margin <25% for two consecutive quarters, or backlog down QoQ (pillar 2 broken — the offset engine stalls)
-- A further common-equity raise beyond the announced $40B ATM, or share count growing >2% a year (CFO, July 2026: "we're not planning to go back to the equity markets")
-- Capex guidance raised again while Cloud growth or margin is falling — spending decoupled from returns
-- D.C. Circuit orders structural search remedies (Chrome divestiture or a ban on default-placement payments)
-- Model race visibly lost: Gemini usage growth stalls and Cloud AI demand weakens, or a second wave of senior AI departures
-- Valuation — trim, not exit: >~30x NTM EPS (~$400+) without estimate upgrades
+_Status checked 2026-11-01 against Q3 2026._
+- Search & other growth <5% YoY for two consecutive quarters, or paid clicks negative while AI Mode usage keeps rising (pillar 1 broken) — **not triggered** (+12%, clicks +8%), but both halves moved toward it
+- Cloud growth <30% YoY or operating margin <25% for two consecutive quarters, or backlog down QoQ (pillar 2 broken) — **not triggered**, moved further away (+103%, 36.2%, backlog +$47B)
+- A further common-equity raise beyond the announced $40B ATM, or share count growing >2% a year — **amber: at the line.** No new raise ($27.6B of ATM unused), but the share count is +1.7% in nine months ≈ +2.3% annualized. Partly mechanical: ~$30B of the ATM was earmarked to cover tax withholding on employee stock. Re-check at Q4; if the full-year figure prints above 2% on an underlying basis, this is triggered
+- Capex guidance raised again while Cloud growth or margin is falling — **not triggered**; the opposite, the guide was held while Cloud accelerated
+- D.C. Circuit orders structural search remedies (Chrome divestiture or a ban on default-placement payments) — pending, not scheduled
+- Model race visibly lost: Gemini usage growth stalls and Cloud AI demand weakens, or a second wave of senior AI departures — **not triggered**, improving
+- Valuation — trim, not exit: >~30x NTM EPS (~$390) without estimate upgrades — **not triggered** (21.5x)
 
 ---
 
 ## Validation Log
 <!-- Newest first. Tracks whether the THESIS is playing out. Lower cadence, deeper than the Analysis Log. -->
+
+### 2026-11-01 — thesis check after Q3 2026 (reported 2026-10-28)
+- **Pillar scores:** #1 Search confirming-but-weakening ⚠️ (was ✅) / #2 Cloud confirming ✅✅ (strengthened) / #3 YouTube + subscriptions neutral ➖ (was ✅) / #4 Gemini frontier confirming ✅ (was ➖) / #5 capex returns & funding contradicting on cash ❌ (was ➖)
+- **Evidence this period:** Revenue $127.6B (+25%) but a miss vs. $128.2B expected — Alphabet's first combined revenue and EPS miss in ~4 years. Search $63.35B (+12%, flat QoQ), paid clicks +8%, cost-per-click +4%; **Schindler conceded lower AI Mode monetization weighed on growth**. YouTube ads +9%, subscriptions/platforms/devices +11%. Cloud $30.7B (+103%), operating income $11.1B (36.2%), backlog $560.8B with 55% inside 24 months. Operating income $40.6B (+30%, margin 31.8%); Cloud 27.4% of it. Against: free cash flow −$9.1B (−$3.9B ex the $5.2B EC fine payment), TTM free cash flow $19.7B (from $53.3B), capex $51.4B (40.3% of revenue), commitments $802.1B, uncommenced leases $130.5B, long-term debt $125.1B, ATM drawn $12.4B, share count 12,294M (+1.7% YTD). EPS $2.12 reported / **$2.67 ex a $8.66B equity-securities loss** (SpaceX −$12.4B, Anthropic +$3.0B) vs. ~$3.02 expected
+- **Starting idea tested — first partial vindication.** The original premise ("AI shrinks ads") still has not appeared as fewer queries or falling revenue; it appeared as **lower revenue per query on AI surfaces**, now acknowledged by management. Simultaneously the offset got bigger: Cloud's annual operating-income contribution rose from ~$24B to ~$30B, enough to absorb Search shrinking ~17–20% a year rather than 10–15%. Both halves of the idea advanced in the same quarter. The free-cash-flow objection from the October check is unchanged and larger
+- **What the market did:** −12.64% on 2026-10-29, ~$482B of market value, reportedly the second-largest single-day market-cap loss on record; close $279.84 on 10-30, −30.5% from the May high. The sell-off was about free cash flow and AI spend, not growth — exactly the risk the v1 thesis named as the one to underwrite
+- **Net conviction:** medium, unchanged — the composition shifted. Business risk rose slightly (pillar 1 quality, pillar 3) and funding risk rose materially; valuation risk fell a lot (25x → 21.5x NTM ex-gains). Those roughly cancel
+- **Thesis status:** revised to **v2** — v1 was written around "two engines, underwrite the capex return". That frame survives, but v2 records (a) the AI-monetization mechanism appearing in the numbers, (b) Cloud becoming the dominant source of incremental profit rather than merely a second engine, and (c) the funding question moving from "watch" to "the thing that sets the price"
+- **Action taken:** none yet — holding 15 sh at −21.2%. **The add trigger from 2026-10-02 (≤24x NTM ex-gains) is met at $279.84 vs. ~$312.** Recommended execution: three tranches — now, after the Anthropic IPO prices (~mid-to-late Nov), and after the 2027 capex guidance (~early Feb) — with adds suspended if Q4 shows Search <+10% or Cloud margin <33%
 
 ### 2026-10-02 — thesis check (initial)
 - **Pillar scores:** #1 Search confirming ✅ / #2 Cloud confirming ✅ / #3 YouTube + subscriptions confirming ✅ (steady, not accelerating) / #4 Gemini frontier neutral ➖ / #5 capex returns & funding neutral ➖ (cash side leaning ❌)
@@ -141,6 +176,13 @@ _(as of 2026-10-01 close)_ Price $338.24; market cap ~$4.14T (12.23B shares); en
 ## Analysis Log
 <!-- Newest first. Routine monitoring — price, metrics, news. Higher cadence, shallower. -->
 
+### 2026-11-01 — Q3 2026 results and the −12.6% day
+- **Price / valuation:** $279.84 (2026-10-30 close, −1.40% on the day); market cap ~$3.44T; **25.6x TTM EPS ex-gains, ~21.5x NTM, EV/EBIT ~21x**; 50-day average $339.07, 200-day $340.66 (price ~18% below both); 52-week low $270.70 set intraday 10-30; −30.5% from the all-time-high close ($402.62, 05-13)
+- **What changed since last entry:** −17.3% vs. the 10-01 mark ($338.24). Path: drifted up to $353.78 by 10-13, then eight sessions of pre-earnings de-rating to $316.80 on 10-26, a small bounce into the print ($324.89 on 10-28), then **−12.64% on 10-29 to $283.82** after Q3, and $279.84 on 10-30. ~$482B of market value lost in one session, reported as the second-largest single-day loss on record. Amazon and Intel fell double digits in Friday premarket on their own reports — this is now a sector-wide AI-capex repricing, not a Google-specific one
+- **News / catalysts:** **Q3 2026 reported 10-28** (details below). **Anthropic filed its public S-1 on 2026-10-26** (ticker ANT; share count, price range and date left blank; marketing reportedly from the week of Nov 9, pricing ~Nov 17–20, possible trading before Thanksgiving; press speculation of ~$2T). FY26 capex guide **held** at $195–205B — CNBC noted on 10-29 that Google and Microsoft both declined to raise their capex forecasts. CFO deferred the 2027 capex number to the Q4 call. EC Android fine final (ECJ denied the appeal in July); $5.2B paid in Q3, hitting cash flow. $1.0B charge taken in Q3 for the July DMA fines (€430M Play + €460M Search); Google appealed in October. Waymo now in 15 US cities (San Antonio, San Diego, Tampa opened to the public), with Canada, Germany, Singapore and Spain planned, and took a **$5.0B senior secured term loan on 2026-10-28** (Term SOFR + 5.25%, due Oct 2032) — Waymo-level, not parent. GFiber contribution/deconsolidation still not closed. Price-target cuts from Citi, JPMorgan, Piper Sandler, Deutsche Bank, BofA; street average now ~$407
+- **Metric check:** Q3'26 revenue $127.6B (+25%, vs. $128.2B expected); Search $63.35B (+12%), YouTube ads $11.21B (+9%), Network $7.46B (**+1%, first positive in the series**), subscriptions/platforms/devices $14.29B (+11%), Cloud $30.71B (+103%), Other Bets $0.37B; operating income $40.58B (+30%, margin 31.8%, vs. $43.19B expected); Google Services $39.16B (40.7%), Cloud $11.12B (36.2%), Other Bets −$2.05B, Alphabet-level −$7.66B; paid clicks +8%, cost-per-click +4%; backlog $567.7B total / $560.8B Cloud, 55% within 24 months; operating cash flow $42.29B, capex $51.36B, **free cash flow −$9.07B** (TTM $19.7B); cash and marketable securities $265.1B (incl. $90.4B marketable equity), non-marketable $135.2B, long-term debt $125.1B, property and equipment net $372.8B of which $145.3B not yet in service; nine-month depreciation $21.96B (+45%). EPS $2.12 reported, **$2.67 ex an $8.66B equity loss** (vs. ~$3.02 expected). Position: unrealized P/L **−21.22% overall** — 2026-07-15 lot −24.77% (−$921.50 / −20,102 Kč); 2026-07-23 lot −13.01% (−$209.20 / −4,563 Kč); total −$1,130.70 / −24,665 Kč (USD net of the $5 fee per lot; ČNB fixing 21.814 CZK/USD, 2026-10-30)
+- **Notes:** The October entry called the shape of this reaction almost exactly — the "capex shock" scenario was pencilled at −5 to −10% and the "Search wobble" at −8 to −12%; both arrived together and the stock did −12.6%. What the scenarios underweighted was free cash flow as the trigger: the street expected +$2.7B and got −$9.1B, a $12B gap that no revenue line could offset. The second-lot entry at $320.68 that looked clever in August is now 13% under water, which is the honest cost of buying a dip inside a de-rating. Full data tables in Appendix — Numbers
+
 ### 2026-10-02 — initiation / deep-dive
 - **Price / valuation:** $338.24 (2026-10-01 close, −1.7% on the day); mkt cap ~$4.14T; 32x TTM EPS ex-gains, ~25x NTM, EV/EBIT ~27x; 50-day average $343.85, 200-day $338.74; −16% from the all-time-high close ($402.12, 05-13); +39% over 52 weeks
 - **What changed since last entry:** −10.2% vs. the 08-04 mark ($376.59), which turned out to be the top of the post-earnings rebound. Path: $342.08 before Q2 results → −7.1% to $317.69 on 07-23 (capex raise, negative free cash flow, EU fine the same day) → +19% to $377.65 by 08-04 → −4.0% on 08-05 (AI leadership reshuffle) → −3.8% on 09-23 (OpenAI/Anthropic price cuts, Meta's Muse assistant)
@@ -148,14 +190,14 @@ _(as of 2026-10-01 close)_ Price $338.24; market cap ~$4.14T (12.23B shares); en
 - **Metric check:** Q2'26 revenue $119.8B (+24%); Search $63.3B (+17%), YouTube ads $11.1B (+13%), Network $7.3B (−1%), subscriptions/platforms/devices $12.9B (+15%), Cloud $24.8B (+82%); operating income $40.8B (+30%, margin 34.0%); Cloud operating income $8.8B (35.6%); operating cash flow $39.1B, capex $44.9B, free cash flow −$5.9B (TTM $53.3B); cash and marketable securities $242.5B, long-term debt $98.2B; FY26 capex guide $195–205B. Position: unrealized P/L −4.6% overall — 2026-07-15 lot −8.95% (−$337.50 / −7,309 Kč); 2026-07-23 lot +5.48% (+$82.80 / +1,793 Kč) (USD net of the $5 fee per lot; ČNB fixing 21.655 CZK/USD)
 - **Notes:** USD-denominated. Three sharp drops in ten weeks each came on AI-cost or AI-competition headlines, not on weak results — the market is trading pillars 4 and 5, not pillar 1. Full data tables in Appendix — Numbers
 
-#### Q3 2026 earnings scenarios (report ~2026-10-27/28)
-Consensus ≈ $127B revenue (+24%), EPS ≈ $3.0 excluding investment gains (sources vary). No formal revenue guidance; CFO flagged tougher Search comparisons, a slight FX headwind, Cloud margin pressure from third-party capacity, and continued pressure on free cash flow.
-- **Strong and clean** (Search ≥+15%, Cloud ≥+80%, Cloud margin ≥33%, capex range unchanged): +5–10%
-- **In line** (Search +12–14%, Cloud +70–80%, Cloud margin 30–33%, capex at the top of the range): −3% to +3%
-- **Search wobble** (Search <+10%, paid clicks slowing): −8 to −12% — revives the "AI eats search" narrative that pillar 1 rests on
-- **Capex shock** (2027 capex quantified well above expectations, or a much larger cash burn, even with good growth): −5 to −10% — the July pattern (−7% on a beat)
-- **Headline EPS caveat:** SpaceX fell 13% in Q3 (≈ −$12B mark, ≈ −$0.75 a share) unless offset by an Anthropic re-mark — compare the print with EPS excluding gains, not the headline
-- **Net:** roughly symmetric at ~25x NTM; the last two reactions show capex is punished more than growth is rewarded. Ranges are judgment-based, not options-implied
+#### Q3 2026 earnings scenarios (written 2026-10-02, scored 2026-11-01)
+Consensus was ≈ $127B revenue (+24%), EPS ≈ $3.0 excluding investment gains.
+- **Strong and clean** (Search ≥+15%, Cloud ≥+80%, Cloud margin ≥33%, capex range unchanged): +5–10% → *missed on Search only; three of four conditions met*
+- **In line** (Search +12–14%, Cloud +70–80%, Cloud margin 30–33%, capex at the top of the range): −3% to +3% → *Search landed exactly here, Cloud far above*
+- **Search wobble** (Search <+10%, paid clicks slowing): −8 to −12% → *half right: Search +12%, not <10%, but paid clicks slowed from +13% to +8%*
+- **Capex shock** (2027 capex quantified well above expectations, or a much larger cash burn, even with good growth): −5 to −10% → **this is what happened**, via cash burn rather than a 2027 number: free cash flow −$9.1B against +$2.7B expected
+- **Headline EPS caveat:** called correctly — SpaceX drove a $12.4B mark-down; reported EPS $2.12 vs. $2.67 ex-gains
+- **Actual: −12.64% on 10-29.** Worse than any single scenario because the Search wobble and the cash shock arrived together. Lesson carried into the next scenario set: free cash flow versus consensus is the variable to pencil first, ahead of the revenue lines
 
 ### 2026-08-04 — position imported from transactions sheet
 - **Price / valuation:** marked at $376.59
@@ -167,105 +209,159 @@ Consensus ≈ $127B revenue (+24%), EPS ≈ $3.0 excluding investment gains (sou
 ---
 
 ## Appendix — Numbers
-_Source: Alphabet earnings releases, call transcripts and 10-Q unless noted. $B. Last updated: 2026-10-02 (data through Q2 2026)._
+_Source: Alphabet earnings releases, call transcripts and 10-Q unless noted. $B. Last updated: 2026-11-01 (data through Q3 2026)._
 
 ### A1. Revenue by line (YoY growth in brackets)
 
-| | Q1'25 | Q2'25 | Q3'25 | Q4'25 | Q1'26 | Q2'26 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Search & other | 50.7 (+10%) | 54.2 (+12%) | 56.6 (+15%) | 63.1 (+17%) | 60.4 (+19%) | 63.3 (+17%) |
-| YouTube ads | 8.9 (+10%) | 9.8 (+13%) | 10.3 (+15%) | 11.4 (+9%) | 9.9 (+11%) | 11.1 (+13%) |
-| Network | 7.3 (−2%) | 7.4 (−1%) | 7.4 (−3%) | 7.8 (−2%) | 7.0 (−4%) | 7.3 (−1%) |
-| Subscriptions, platforms & devices | 10.4 (+19%) | 11.2 (+20%) | 12.9 (+21%) | 13.6 (+17%) | 12.4 (+19%) | 12.9 (+15%) |
-| Google Cloud | 12.3 (+28%) | 13.6 (+32%) | 15.2 (+34%) | 17.7 (+48%) | 20.0 (+63%) | 24.8 (+82%) |
-| **Total revenue** | 90.2 (+12%) | 96.4 (+14%) | 102.3 (+16%) | 113.8 (+18%) | 109.9 (+22%) | 119.8 (+24%) |
-| Advertising share of revenue | 74.1% | 74.0% | 72.5% | 72.3% | 70.3% | 68.1% |
-| Paid clicks / cost-per-click, YoY | +2% / +7% | +4% / +8% | +7% / +7% | n/d (FY25: +6% / +7%) | +13% / +5% | +13% / +3% |
-| Cloud backlog | — | 106 | 155 | 240 | 462 | 514 |
+| | Q1'25 | Q2'25 | Q3'25 | Q4'25 | Q1'26 | Q2'26 | Q3'26 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Search & other | 50.7 (+10%) | 54.2 (+12%) | 56.6 (+15%) | 63.1 (+17%) | 60.4 (+19%) | 63.3 (+17%) | 63.4 (+12%) |
+| YouTube ads | 8.9 (+10%) | 9.8 (+13%) | 10.3 (+15%) | 11.4 (+9%) | 9.9 (+11%) | 11.1 (+13%) | 11.2 (+9%) |
+| Network | 7.3 (−2%) | 7.4 (−1%) | 7.4 (−3%) | 7.8 (−2%) | 7.0 (−4%) | 7.3 (−1%) | 7.5 (+1%) |
+| Subscriptions, platforms & devices | 10.4 (+19%) | 11.2 (+20%) | 12.9 (+21%) | 13.6 (+17%) | 12.4 (+19%) | 12.9 (+15%) | 14.3 (+11%) |
+| Google Cloud | 12.3 (+28%) | 13.6 (+32%) | 15.2 (+34%) | 17.7 (+48%) | 20.0 (+63%) | 24.8 (+82%) | 30.7 (+103%) |
+| **Total revenue** | 90.2 (+12%) | 96.4 (+14%) | 102.3 (+16%) | 113.8 (+18%) | 109.9 (+22%) | 119.8 (+24%) | **127.6 (+25%)** |
+| Advertising share of revenue | 74.1% | 74.0% | 72.5% | 72.3% | 70.3% | 68.1% | 64.3% |
+| Paid clicks / cost-per-click, YoY | +2% / +7% | +4% / +8% | +7% / +7% | n/d (FY25: +6% / +7%) | +13% / +5% | +13% / +3% | +8% / +4% |
+| Cloud backlog | — | 106 | 155 | 240 | 462 | 514 | 561 |
 
-FY2025: revenue $402.8B (+15%) — Search $224.5B, YouTube ads $40.4B, Network $29.8B, subscriptions/platforms/devices $48.0B, Cloud $58.7B. Paid-click and cost-per-click changes are from the 10-Q/10-K filings via secondary sources.
+FY2025: revenue $402.8B (+15%) — Search $224.5B, YouTube ads $40.4B, Network $29.8B, subscriptions/platforms/devices $48.0B, Cloud $58.7B. TTM to Q3'26: revenue $471.1B; Search & other $250.2B. Q3'26 exact figures ($M): Search 63,350 · YouTube ads 11,207 · Network 7,455 · subscriptions/platforms/devices 14,290 · Cloud 30,709 · Other Bets 372 · hedging gains 194 · total 127,577. Paid-click and cost-per-click changes are from the 10-Q monetization table.
 
 ### A2. Operating income by segment (margin in brackets)
 
-| | Q1'25 | Q2'25 | Q3'25 | Q4'25 | Q1'26 | Q2'26 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Google Services | 32.7 (42.3%) | 33.1 (40.1%) | 33.5 (38.5%)¹ | 40.1 (41.9%) | 40.6 (45.3%) | 39.5 (41.8%) |
-| Google Cloud | 2.2 (17.8%) | 2.8 (20.7%) | 3.6 (23.7%) | 5.3 (30.1%) | 6.6 (32.9%) | 8.8 (35.6%) |
-| Other Bets | −1.2 | −1.2 | −1.4 | −3.6² | −2.1 | −1.8 |
-| Alphabet-level (shared AI R&D) | −3.0 | −3.4 | −4.5 | −5.9 | −5.4 | −5.8 |
-| **Total** | 30.6 (33.9%) | 31.3 (32.4%) | 31.2 (30.5%) | 35.9 (31.6%) | 39.7 (36.1%) | 40.8 (34.0%) |
-| Cloud share of total | 7.1% | 9.0% | 11.5% | 14.8% | 16.6% | 21.6% |
+| | Q1'25 | Q2'25 | Q3'25 | Q4'25 | Q1'26 | Q2'26 | Q3'26 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Google Services | 32.7 (42.3%) | 33.1 (40.1%) | 33.5 (38.5%)¹ | 40.1 (41.9%) | 40.6 (45.3%) | 39.5 (41.8%) | 39.2 (40.7%) |
+| Google Cloud | 2.2 (17.8%) | 2.8 (20.7%) | 3.6 (23.7%) | 5.3 (30.1%) | 6.6 (32.9%) | 8.8 (35.6%) | 11.1 (36.2%) |
+| Other Bets | −1.2 | −1.2 | −1.4 | −3.6² | −2.1 | −1.8 | −2.0 |
+| Alphabet-level (shared AI R&D) | −3.0 | −3.4 | −4.5 | −5.9 | −5.4 | −5.8 | −7.7³ |
+| **Total** | 30.6 (33.9%) | 31.3 (32.4%) | 31.2 (30.5%) | 35.9 (31.6%) | 39.7 (36.1%) | 40.8 (34.0%) | **40.6 (31.8%)** |
+| Cloud share of total | 7.1% | 9.0% | 11.5% | 14.8% | 16.6% | 21.6% | **27.4%** |
 
-¹ Includes the $3.5B EC ad tech fine (42.5% without it). ² Includes a $2.1B Waymo compensation charge.
-Q2'26 vs. Q2'25: operating income +$9.5B = Services +$6.5B, Cloud +$6.0B, Other Bets −$0.6B, Alphabet-level −$2.4B. FY2025: operating income $129.0B (32.0%); Services $139.4B, Cloud $13.9B.
+¹ Includes the $3.5B EC ad tech fine (42.5% without it). ² Includes a $2.1B Waymo compensation charge. ³ Includes a $1.0B charge for the July 2026 DMA fines.
+Q3'26 vs. Q3'25: operating income +$9.3B = **Cloud +$7.5B**, Services +$5.6B, Other Bets −$0.6B (Waymo expansion and compensation), Alphabet-level −$3.2B. TTM operating income ≈ $156.9B. FY2025: operating income $129.0B (32.0%); Services $139.4B, Cloud $13.9B.
 
 ### A3. Cash flow and funding
 
-| | FY2024 | FY2025 | Q3'25 | Q4'25 | Q1'26 | Q2'26 | TTM |
+| | FY2024 | FY2025 | Q4'25 | Q1'26 | Q2'26 | Q3'26 | TTM |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Operating cash flow | 125.3 | 164.7 | 48.4 | 52.4 | 45.8 | 39.1 | 185.7 |
-| Capex | 52.5 | 91.4 | 24.0 | 27.9 | 35.7 | 44.9 | 132.4 |
-| **Free cash flow** | 72.8 | 73.3 | 24.5 | 24.6 | 10.1 | −5.9 | 53.3 |
-| Capex as % of revenue | 15.0% | 22.7% | 23.4% | 24.5% | 32.5% | 37.5% | 29.7% |
-| Buybacks | 62.2 | 45.7 | 11.9 | 5.5 | 0 | 0 | 17.4 |
-| Dividends | 7.4 | 10.0 | 2.5 | 2.5 | 2.5 | 2.7 | 10.3 |
-| Equity issued (net) | 0 | 0 | 0 | 0 | 0 | 49.6 | 49.6 |
+| Operating cash flow | 125.3 | 164.7 | 52.4 | 45.8 | 39.1 | 42.3 | 179.5 |
+| Capex | 52.5 | 91.4 | 27.9 | 35.7 | 44.9 | 51.4 | 159.9 |
+| **Free cash flow** | 72.8 | 73.3 | 24.6 | 10.1 | −5.9 | **−9.1** | **19.7** |
+| Capex as % of revenue | 15.0% | 22.7% | 24.5% | 32.5% | 37.5% | 40.3% | 33.9% |
+| Buybacks | 62.2 | 45.7 | 5.5 | 0 | 0 | 0 | 5.5 |
+| Dividends (common + preferred) | 7.4 | 10.0 | 2.5 | 2.5 | 2.7 | 2.9 | 10.6 |
+| Equity issued (net) | 0 | 0 | 0 | 0 | 49.6 | 12.4 | 62.0 |
 
-Capex guidance for 2026: $175–185B (Feb) → $180–190B (Apr) → $195–205B (Jul); H1 actual $80.6B → H2 implied $114–124B. 2027: "significantly" higher. Capex mix ~60% servers, ~40% data centers and networking. Depreciation: $15.3B (FY24) → $21.1B (FY25, +38%) → $13.6B in H1'26 (+43%).
+Capex guidance for 2026: $175–185B (Feb) → $180–190B (Apr) → $195–205B (Jul) → **unchanged (Oct)**; nine-month actual $132.0B → Q4 implied **$63–73B** (a 23–42% sequential step-up). 2027: "increase significantly", figure deferred to the Q4 call; press characterization >$300B. Q3'26 capex mix ~65% servers and networking, ~35% data centers. Depreciation: $15.3B (FY24) → $21.1B (FY25, +38%) → $22.0B in 9M'26 (+45% YoY; ~$8.4B in Q3 alone, derived). Useful lives: servers and networking ~6 years, data centers 7–40 years. Nine-month 2026 financing: $42.9B common equity, $19.1B mandatory convertible preferred, $85.2B debt issued less $8.9B repaid.
 
 ### A4. Earnings quality — EPS with and without investment gains
 
-| Diluted EPS, $ | Q1'25 | Q2'25 | Q3'25 | Q4'25 | Q1'26 | Q2'26 | FY2025 | TTM |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Reported | 2.81 | 2.31 | 2.87 | 2.82 | 5.11 | 9.11 | 10.81 | 19.91 |
-| of which gains on equity securities (after tax) | 0.62 | 0.08 | 0.68 | 0.15 | 2.35 | 6.26 | 1.53 | 9.44 |
-| **Excluding gains** | 2.19 | 2.23 | 2.19³ | 2.67 | 2.76 | 2.85 | 9.28 | 10.47 |
+| Diluted EPS, $ | Q1'25 | Q2'25 | Q3'25 | Q4'25 | Q1'26 | Q2'26 | Q3'26 | FY2025 | TTM |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Reported | 2.81 | 2.31 | 2.87 | 2.82 | 5.11 | 9.11 | **2.12** | 10.81 | 19.16 |
+| of which gains (losses) on equity securities, after tax | 0.62 | 0.08 | 0.68 | 0.15 | 2.35 | 6.26 | **(0.55)** | 1.53 | 8.21 |
+| **Excluding gains/losses** | 2.19 | 2.23 | 2.19³ | 2.67 | 2.76 | 2.85 | **2.67** | 9.28 | **10.95** |
 
-³ After the $3.5B EC fine (~$0.29 a share). Q2'26 gains: $77.5B unrealized on non-marketable equity (Anthropic re-marked to a ~$965B valuation) + $21.4B on marketable equity (SpaceX IPO).
-Growth excluding gains: +26% in Q1'26, +28% in Q2'26. FY26 consensus of $11.81 is +27% on FY25's $9.28, not the "+9%" shown against reported $10.81.
+³ After the $3.5B EC fine (~$0.29 a share). Q3'26: gain (loss) on equity securities **−$8,664M pre-tax** = marketable and other −$12,436M unrealized (SpaceX marked from $170.86 to ~$149 a share) + non-marketable **+$3,027M** unrealized (Anthropic) + $745M realized; after-tax effect ~−$0.55 a share at a ~21% rate, which reconciles to the $2.67 the street reported as adjusted. Diluted shares 12,368M (basic 12,256M).
+Growth excluding gains: +26% Q1'26, +28% Q2'26, **+22% Q3'26**. FY26 ex-gains builds to ~$11.5 (9M actual $8.28 + ~$3.2 in Q4) vs. $9.28 in FY25 ≈ +24%. **Caution: screen-level consensus EPS for FY26 (~$16.55) and the ~14.6x trailing P/E both embed the $127.3B of nine-month equity mark-ups and are not comparable to anything.**
 
-### A5. Balance sheet and commitments (2026-06-30)
-- **Cash and marketable securities $242.5B**, of which $87.1B is marketable equity (almost all SpaceX shares under sale restrictions) → ~$155B in cash and bonds. **Long-term debt $98.2B** (face $101.1B; ~$16B a year earlier); 2026 issuance $20.0B in USD notes + $31.8B in foreign-currency notes; interest expense $1.28B in Q2 vs. $0.26B. Net cash excluding equity stakes ≈ $57B
-- **Equity stakes:** non-marketable equity $124.3B (cost $47.6B, cumulative mark-ups $85.7B), "primarily" one private company — Anthropic (~14%, reported; last round $65B at $965B, May 2026). SpaceX: 551.2M shares, $94.1B at $170.86 ($80.0B under short-term and $14.1B under long-term sale restrictions through Q3'27); $149.24 on 2026-09-30 → ≈ $82B
-- **Property and equipment, net $321.2B**, of which $122.8B "assets not yet in service" (not yet depreciating)
-- **Purchase commitments $707.0B** (mostly supply agreements for chips and infrastructure through 2030; energy contracts with take-or-pay terms through 2054), up from $232.7B at 2026-03-31. **Leases not yet commenced $85.2B** (data centers, starting 2026–31)
-- **Backlog $519.5B**, of which Cloud $513.9B; ~50% recognized within 24 months. Anthropic's five-year, $200B commitment (April 2026) ≈ 39% of it
-- **Share count 12,230M** (12,088M at 2025-12-31). June 2026: 58M shares sold publicly at ~$352–355; 28M to Berkshire Hathaway at $348–352 ($10B); 19M shares of 6.25% mandatory convertible preferred ($19B; converts ~2029-05-15 into 2.25–2.82 common shares each); ATM up to $40B, none sold by June 30 (~$30B earmarked to cover 2026 tax withholding on employee stock). Buyback authorization: $69.5B unused
+### A5. Balance sheet and commitments (2026-09-30)
+- **Cash and marketable securities $265.1B** (from $242.5B at June 30), of which $90.4B is marketable equity (almost all SpaceX) → ~$174.7B in cash and bonds. **Long-term debt $125.1B** (fair value $114.9B; $46.5B at 2025-12-31); 2026 issuance to date $45.0B of USD notes (Q3 tranche at a 5.55% weighted average, ~15-year weighted maturity) plus $35.8B equivalent of foreign-currency notes; $0 commercial paper drawn of a $25B program; $10B of revolvers undrawn. Interest expense $967M in Q3 vs. $143M a year earlier, with a further $405M capitalized. **Net cash excluding equity stakes ≈ $24B** (was ~$57B at June 30)
+- **Equity stakes ≈ $218.6B:** non-marketable measurement-alternative $128.2B (cost $48.6B, cumulative upward adjustments $88.8B, downward $9.2B), "primarily" Anthropic (~14% holding; last round $65B raised at a $965B post-money valuation, May 2026; **public S-1 filed 2026-10-26**), plus $7.1B of equity-method investments → $135.2B of non-marketable securities in total; marketable equity $90.4B (mostly SpaceX, ~551M shares, marked down ~$12.4B in the quarter)
+- **Property and equipment, net $372.8B** (from $246.6B at 2025-12-31), of which **$145.3B "assets not yet in service"** (not yet depreciating, from $78.6B) — technical infrastructure gross $282.8B, 60% of in-service gross assets
+- **Purchase commitments $802.1B** under long-term contractual obligations (up from $707.0B at 2026-06-30), including $4.5B of standby letters of credit; mostly supply agreements running through 2032 with the significant majority payable through 2031. On the call the CFO cited $924B of future purchase commitments on a broader basis. **Leases not yet commenced $130.5B** undiscounted (from $85.2B), terms of 1–26 years. Financial guarantees: $16.2B counterparty procurement, $6.6B hardware/software repurchase
+- **Backlog $567.7B**, of which Google Cloud $560.8B; **55%** expected within 24 months (was ~50% at Q2). Anthropic's five-year, $200B commitment (April 2026) ≈ 36% of it. Deferred revenue $12.6B (from $8.6B at 2025-12-31)
+- **Share count 12,294M** at 2026-09-30 (Class A 5,888 / B 828 / C 5,578), from 12,088M at 2025-12-31 → **+1.7% in nine months, ~+2.3% annualized**. Q3 ATM sales: 12M Class A for $4.3B and 24M Class C for $8.1B = **$12.4B of the $40B program, $27.6B remaining** (~$30B of the program was earmarked to cover tax withholding on employee stock). June 2026: 58M shares sold publicly at ~$352–355, 28M to Berkshire Hathaway at $348–352 ($10B), 19M shares of 6.25% mandatory convertible preferred ($19.1B net; converts ~2029-05-15 at 2.252–2.842 common per share; capped calls bought for $1.0B with caps at $527.80–532.67). Buybacks: **$0 in Q3 and in all of 9M'26** (vs. $40.1B in 9M'25); authorization $69.5B of $70B unused. Dividend raised to $0.22 a quarter (from $0.21), declared again 2026-10-28
+
+### A6. Where AI and Android revenue actually land
+_Added 2026-11-01. Alphabet reports no AI revenue line, no Gemini line, no Workspace line and no Android or Play line. This maps the question onto what is disclosed, using the FY2025 10-K revenue definitions._
+
+| What you want to track | Which reported line it sits in | What is actually disclosed |
+| --- | --- | --- |
+| **Gemini in Workspace** (enterprise AI) | **Google Cloud** — the 10-K defines Cloud as Google Cloud Platform *plus* "Google Workspace... including Gemini features" | No Workspace revenue or growth figure in Q3'26. Last quantification: "double-digit growth driven by an increase in average revenue per seat" (Ashkenazi, Q4'25 call, Feb 2026) |
+| **Gemini Enterprise** (agent platform) | **Google Cloud** | ~90% of the Fortune 100 use it; Q3'25 cohort "more than quadrupled" spend YoY; >100M seats sold for knowledge work across all AI services (Kurian, Q3'26). Seat count last given as >8M paid across 2,800+ companies on the Q4'25 call — not updated since |
+| **Gemini API / Vertex** (developer AI) | **Google Cloud** | 32B tokens a minute (+40% QoQ, >4x YoY). No revenue split |
+| **Consumer Gemini** (Google One AI plans) | **Google subscriptions, platforms & devices** — the 10-K puts "Google One, which includes access to Gemini models" here, *not* in Cloud | Google One is the "fastest-growing subscription" product, driven by demand for AI plans (Ashkenazi, Q3'26). No subscriber count given; last total paid-subscription figure was 350M at Q1'26 |
+| **AI in Search** (AI Mode, AI Overviews) | **Google Search & other** | No revenue split. The only directional statement is the negative one: AI Mode monetizes *lower* than classic search (Schindler, Q3'26) |
+| **Android — Play Store** (apps and in-app purchases) | **Google subscriptions, platforms & devices** | Never broken out. Not cited as a growth driver in Q3'26 |
+| **Android — Pixel devices** | **Google subscriptions, platforms & devices** | Never broken out. Not cited as a growth driver in Q3'26 |
+| **Android — search default traffic** | **Google Search & other** | Not separable at all |
+
+**The only AI revenue figure Alphabet has ever given:** Google Cloud "has generated tens of billions of dollars in AI revenues year-to-date" (Ashkenazi, Q3'26 call), against nine-month Cloud revenue of ~$75.5B. There is no AI run-rate disclosure and no guidance. Cloud's +103% growth and the $560.8B backlog converting 55% within 24 months are the de facto AI revenue proxy, and the only one that can be validated.
+
+**Why the subscriptions, platforms & devices line is hard to read.** It contains two forces pulling in opposite directions, and Alphabet names only the favourable one:
+- *Pulling up:* YouTube Music and Premium (>150M subscribers including trials) and Google One AI plans — the two drivers Ashkenazi actually cited for the +11%.
+- *Pulling down:* Play Store take rates. The Epic settlement fee structure took effect **2026-06-30 in the US, UK and EEA** and **2026-09-30 in Australia and Japan**, with global completion targeted for September 2027. Non-subscription transactions moved from 30% to 20% + 5% billing fee on new installs (25% + 5% on existing, or 20% for external web links); auto-renewing subscriptions are 10% + 5%, roughly flat against the old 15%. So the damage is concentrated in games and one-off in-app purchases, and it leaks further as developers steer users to external billing at 20%.
+- *Net:* Q3'26 was the first full quarter of the new fees in the three largest affected regions, and the line decelerated from +15% to +11%. Neither Play nor devices was named as a driver — a reasonable inference that the subscription half is carrying the line while Play is a drag.
+
+**Trajectory for the line (my estimate, not consensus — no analyst forecast exists at this level of detail):** +19% → +15% → +11% through 2026 so far, +14.9% over nine months. Q4'26 faces a +17% comparison, an FX headwind the CFO described as "slightly larger" than Q3, and the first full quarter of the Australia/Japan fee change — so roughly **+7–11%**, putting FY2026 at ~$54B, about **+13%**. Low teens for the full year, but exiting at high single digits. For 2027 the Play rollout completes globally, so the drag persists; high-single to low-double digits is the sensible planning assumption unless Google One AI plans scale faster than Play erodes.
+
+### A7. Android platform share — and why it lands in TAC, not revenue
+_Added 2026-11-01. Android has no revenue line, so platform share has to be tracked externally and then mapped onto the three places it touches._
+
+**Browsing share (StatCounter, share of mobile page views, trailing 12 months to strip the heavy Q1 iOS seasonality):**
+
+| Region | T12M to Oct 2024 | T12M to Oct 2025 | T12M to Oct 2026 | Change YoY |
+| --- | --- | --- | --- | --- |
+| Worldwide | 71.3% | 72.9% | 69.3% | **−3.6 pp** |
+| Europe | 67.0% | 64.9% | 61.0% | **−3.9 pp** |
+| United States | 42.2% | 42.1% | 40.7% | **−1.5 pp** |
+| India | 95.3% | 95.3% | 94.0% | **−1.3 pp** |
+
+The loss is concentrated in Dec 2025 – Sep 2026: worldwide monthly YoY ran −3.6 to −6.6 pp from February to September. **Then it reversed** — worldwide narrowed to −0.3 pp in October, the US flipped to +5.2 pp (Sep) and +6.3 pp (Oct), Europe to +1.9/+2.0 pp. Swings of that size in single months mean the series is noisy, so neither the H1 decline nor the autumn reversal should be read as a clean trend. India is the one to watch structurally: iOS went from ~4% to ~5–6% in Android's largest stronghold.
+
+**Unit share (sell-in, Q3 2026) says something different, and the cause matters.** Global shipments fell **20%** (Counterpoint) / **22%** to 255.3M (IDC) — the worst Q3 since 2012 and the steepest on IDC's record — on DRAM/NAND price spikes that pushed retail prices up ~20% in 2026. Samsung 23% / 22.6%, Apple 22% / 22.4%; Apple crossed 20% in a Q3 for the first time. But **Apple's own shipments fell YoY** — the share gain came from the market shrinking faster than Apple did, helped by the iPhone 18 Pro and continued iPhone 17 demand. The vendors that actually lost were Xiaomi, OPPO and vivo, all down more than 20%, all Android. So the unit-share shift is low-end Android being priced out of a memory-constrained market, not consumers choosing iPhone over Android — and low-end Android users are the least monetizable cohort for Play, so the revenue impact is far smaller than the unit impact.
+
+**US structural ceiling:** Piper Sandler's teen survey has iPhone ownership at **87–88%** of US teens, with ~88% intending iPhone next. That caps Android's US share for a generation, but it has sat at 85–88% for years — stable-bad, not deteriorating.
+
+**The three channels, and how exposed each one is:**
+1. **Google Play and in-app purchases — direct loss.** A switcher takes their app spend to Apple. Sits in subscriptions, platforms & devices, compounding with the Play fee cuts (see A6). This is the real exposure.
+2. **Pixel — negligible.** Undisclosed, and small inside the devices component.
+3. **Search queries — not lost at all.** Google pays Apple ~$20B a year for the Safari default (court documents put it at 36% of Safari search revenue), and the Mehta remedy explicitly **preserved** default-placement payments. An Android user who switches to iPhone keeps searching on Google; Google simply rents the traffic instead of owning it. The effect lands in gross margin, not revenue.
+
+**The validatable test — and it currently passes.** If Android were losing meaningful high-value share to iOS, traffic acquisition costs would grow faster than advertising revenue, because Google would be buying back traffic it used to own. In Q3'26: **TAC $16.4B, +10%**, against **advertising revenue +10.6%** — TAC held at **20.0% of advertising revenue** versus 20.1% a year earlier, essentially flat. The platform drift is not yet showing up in Google's economics.
+
+**Consequence for the thesis:** Android share is a second-order watch item. The first-order risk in the same area is the **DOJ cross-appeal** — if the D.C. Circuit bans default-placement payments, Google can no longer buy back iOS traffic, and iOS share converts from a cost line into a revenue problem overnight. That is already a pillar-1 kill criterion. Watch the appeal, not StatCounter.
 
 ---
 
 ## Appendix — Legal & regulatory
-_Reference material, edited in place as cases develop. Last updated: 2026-10-02._
+_Reference material, edited in place as cases develop. Last updated: 2026-11-01._
 
 ### US v. Google — search (D.D.C., Judge Mehta; appeal D.C. Cir. No. 26-5023)
 - **Ruling:** liability Aug 2024 (illegal monopoly maintenance in search). Remedies Sept 2025: no Chrome or Android divestiture; default-placement payments still allowed (Apple ≈ $20B a year); exclusive distribution contracts barred for search and AI products; search data sharing and syndication to qualified competitors
-- **Appeals:** Google appealed 2026-01-22 (brief 05-22, contesting liability and remedies); DOJ and states cross-appealed (brief 07-28) asking for harsher remedies, including Chrome divestiture and a payment ban; Google's reply was due 09-29; oral argument not scheduled (expected late 2026 / early 2027), ruling likely 2027
+- **Appeals:** Google appealed 2026-01-22 (brief 05-22, contesting liability and remedies); DOJ and states cross-appealed (brief 07-28) asking for harsher remedies, including Chrome divestiture and a payment ban; Google's reply was filed 09-29; oral argument not scheduled (expected late 2026 / early 2027), ruling likely 2027
 - **Thesis link:** a structural remedy on distribution is a kill criterion (pillar 1). The behavioral status quo is manageable; data sharing helps rivals at the margin
 
 ### US v. Google — ad tech (E.D. Va., Judge Brinkema)
 - **Ruling:** liability Apr 2025 (publisher ad server and ad exchange). Remedies 2026-09-02: divestiture of AdX and DFP rejected; six-year behavioral decree applied globally, with a monitor and technical committee — DFP/AdX unbundling, equal interoperability with rival exchanges and Prebid, auction-data access for publishers, limits on routing AdWords demand to Google's own exchange. Publisher-restitution escrow rejected
-- **Thesis link:** touches Network — $7.3B a quarter (6% of revenue), already shrinking 1–4% a year. Low materiality. Appeal status unknown as of this update
+- **Thesis link:** touches Network — $7.5B a quarter (6% of revenue), which actually grew +1% in Q3, its first increase in the series. Low materiality. The Q3 10-Q says Google cannot estimate a possible loss for the US ad tech cases
 
 ### EU
-- **Android (2018):** €4.1B fine upheld; $5.2B paid including interest in July 2026 (cash outflow in Q3'26, previously accrued)
+- **Android (2018):** fine reduced by the General Court from €4.3B to €4.1B; **the European Court of Justice denied Google's appeal in July 2026, making it final**. $5.2B paid in cash including interest — the outflow landed in Q3'26 and is ~$5.2B of the quarter's −$9.1B free cash flow
 - **Ad tech (Sept 2025):** €2.95B / $3.5B, expensed in Q3'25; under appeal
-- **Digital Markets Act:** first fine 2026-07-23 — €890M (€460M search self-preferencing, €430M Play Store anti-steering); 60 days to comply or periodic penalties of up to 5% of average daily worldwide turnover; Google is appealing. The required changes to EU search result pages matter more than the fine
+- **Digital Markets Act:** first fines 2026-07-23 — €460M (search self-preferencing) + €430M (Play Store anti-steering) = €890M. **Google recognized a $1.0B charge in Q3'26** and appealed in October 2026. The required changes to EU search result pages matter more than the fine
 - **AdSense (2019):** €1.5B fine annulled Sept 2024; Commission appeal pending
-- **Follow-on damages:** a Stockholm court awarded PriceRunner $2.1B (July 2026, under appeal) — a precedent for other comparison-shopping claims
+- **Follow-on damages:** a Stockholm court awarded PriceRunner ~$2.1B in principal damages, recognized in Q2'26 and under appeal — a precedent for other comparison-shopping claims
 
 ### Other
-- **Epic v. Google (Play Store):** settled March 2026; court-ordered Play changes live since July 2026 → fee pressure inside subscriptions, platforms & devices (pillar 3 watch item)
-- **Accounting:** the Q2'26 10-Q records a $1.7B antitrust-related charge in the quarter (may already include the DMA fine)
+- **Epic v. Google (Play Store):** settled March 2026; in July 2026 Epic and Google jointly withdrew the motion to modify the injunction and Google is complying with the Oct 2024 remedies. The state Attorneys General settlement was approved in August 2026 (previously funded into escrow in May 2024). **New Play service fees:** live 2026-06-30 in the US, UK and EEA and 2026-09-30 in Australia and Japan, global completion targeted Sept 2027. Non-subscription transactions 20% + 5% billing fee on new installs, 25% + 5% on existing installs, or 20% via external web links — against 30% before; auto-renewing subscriptions 10% + 5%, roughly flat on the old 15%. External billing is now permitted, so take rate also leaks to the 20% tier. The damage is concentrated in games and one-off in-app purchases, inside subscriptions, platforms & devices, which decelerated to +11% in Q3 (pillar 3 watch item; see Appendix A6)
+- **Waymo financing:** $5.0B senior secured term loan dated 2026-10-28 at Term SOFR + 5.25%, maturing Oct 2032 — borrowed at the Waymo level, outside the parent's $125.1B
 
 ### Materiality verdict
-Fines and awards of the last twelve months come to roughly $7–8B (EC ad tech $3.5B, the Q2'26 charge $1.7B, PriceRunner $2.1B if upheld) — about 5% of one year's operating income ($148B TTM). A recurring nuisance, not thesis-breaking. The exposure that matters is structural: the DOJ cross-appeal, and DMA-driven limits on how Search may display Google's own results. Both US remedy rulings so far were behavioral, which is the base case.
+Charges and payments of the last twelve months come to roughly $8–9B (EC ad tech $3.5B expensed in Q3'25, PriceRunner ~$2.1B in Q2'26, DMA $1.0B in Q3'26, plus the $5.2B Android cash payment against a prior accrual) — around 5% of one year's operating income ($157B TTM). A recurring nuisance, not thesis-breaking, though the Android payment alone moved a reported free-cash-flow number the market cared a great deal about. The exposure that matters is still structural: the DOJ cross-appeal, and DMA-driven limits on how Search may display Google's own results. Both US remedy rulings so far were behavioral, which remains the base case.
 
 ---
 
 ## Sources
-- Alphabet earnings releases: [Q2 2026](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm) · [Q1 2026](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000043/googexhibit991q12026.htm) · [Q4 / FY2025](https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/2025q4-alphabet-earnings-release.pdf) · [Q3 2025](https://s206.q4cdn.com/479360582/files/doc_financials/2025/q3/2025q3-alphabet-earnings-release.pdf) · [Q2 2025](https://s206.q4cdn.com/479360582/files/doc_financials/2025/q2/2025q2-alphabet-earnings-release.pdf) · [Q1 2025](https://s206.q4cdn.com/479360582/files/doc_financials/2025/q1/2025q1-alphabet-earnings-release.pdf)
-- Alphabet earnings call transcripts: [Q2 2026](https://s206.q4cdn.com/479360582/files/doc_events/2026/Jul/22/2026_Q2_Earnings_Transcript.pdf) · [Q1 2026](https://s206.q4cdn.com/479360582/files/doc_events/2026/Apr/29/2026_Q1_Earnings_Transcript.pdf) · [Q4 2025](https://s206.q4cdn.com/479360582/files/doc_events/2026/Feb/04/2025_Q4_Earnings_Transcript.pdf)
-- [Alphabet 10-Q, quarter ended 2026-06-30](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000071/goog-20260630.htm) — notes on commitments, financial instruments, equity, leases, debt
+- Alphabet earnings releases: [Q3 2026](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm) · [Q2 2026](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm) · [Q1 2026](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000043/googexhibit991q12026.htm) · [Q4 / FY2025](https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/2025q4-alphabet-earnings-release.pdf) · [Q3 2025](https://s206.q4cdn.com/479360582/files/doc_financials/2025/q3/2025q3-alphabet-earnings-release.pdf) · [Q2 2025](https://s206.q4cdn.com/479360582/files/doc_financials/2025/q2/2025q2-alphabet-earnings-release.pdf) · [Q1 2025](https://s206.q4cdn.com/479360582/files/doc_financials/2025/q1/2025q1-alphabet-earnings-release.pdf)
+- Alphabet 10-Q filings: [quarter ended 2026-09-30](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000084/goog-20260930.htm) — notes used: R4 income statement, R9 cash flows, R2 balance sheet, R41 backlog, R48/R49 equity securities, R60 leases, R62 debt, R65 property and equipment, R19/R77 commitments and contingencies, R78 stockholders' equity, R79 shares and EPS · [quarter ended 2026-06-30](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000071/goog-20260630.htm)
+- Alphabet earnings call transcripts: [Q3 2026](https://www.fool.com/earnings/call-transcripts/2026/10/29/alphabet-googl-q3-2026-earnings-call-transcript/) · [Q3 2026 IR event page](https://abc.xyz/investor/events/event-details/2026/2026-Q3-Earnings-Call-2026-Ujou16CTw9/default.aspx) · [Q2 2026](https://s206.q4cdn.com/479360582/files/doc_events/2026/Jul/22/2026_Q2_Earnings_Transcript.pdf) · [Q1 2026](https://s206.q4cdn.com/479360582/files/doc_events/2026/Apr/29/2026_Q1_Earnings_Transcript.pdf) · [Q4 2025](https://s206.q4cdn.com/479360582/files/doc_events/2026/Feb/04/2025_Q4_Earnings_Transcript.pdf)
 - [Alphabet equity capital raise press release, 2026-06-01](https://s206.q4cdn.com/479360582/files/doc_news/2026/Jun/01/attachments/2026-June-Alphabet-Equity-Capital-Raise-Press-Release-PDF.pdf)
-- Price, multiples, consensus: StockAnalysis — [history](https://stockanalysis.com/stocks/googl/history/) · [statistics](https://stockanalysis.com/stocks/googl/statistics/) · [forecast](https://stockanalysis.com/stocks/googl/forecast/); [TIKR, 2026-09-24](https://www.tikr.com/blog/alphabet-stock-fell-nearly-4-in-a-day-on-muse-and-ai-price-cuts-heres-what-googles-chip-math-says) (consensus free cash flow, Evercore survey, Kurian remarks)
-- Secondary: [Steady Compounding — 10-Q walk-through](https://steadycompounding.com/investing/alphabet-q2-2026/) · [Fortune — DeepMind reshuffle](https://fortune.com/2026/08/05/demis-hassabis-steps-down-google-deepmind-ai-shakeup/) · [DCD — SpaceX compute contract](https://www.datacenterdynamics.com/en/news/google-to-pay-920-million-to-spacex-monthly-for-ai-capacity/) · [Anthropic — Google/Broadcom TPU deal](https://www.anthropic.com/news/google-broadcom-partnership-compute) · [TNW — SpaceX stake](https://thenextweb.com/news/google-94-billion-spacex-shares-ipo-stake) · [Startup Fortune — Anthropic stake](https://startupfortune.com/alphabets-124-billion-anthropic-stake-reshapes-how-investors-should-read-googles-earnings/) · [TechPolicy.Press — ad tech remedies](https://techpolicy.press/a-deep-dive-into-the-antitrust-remedies-that-spared-googles-ad-tech-business) · [Courthouse News — search appeal](https://www.courthousenews.com/doj-urges-dc-circuit-to-beef-up-remedies-in-google-monopoly-ruling/) · [IntelliNews — DMA fine](https://www.intellinews.com/eu-fines-google-890mn-over-search-self-preferencing-play-store-rules-456520/)
+- Platform share and traffic acquisition costs: [StatCounter mobile OS share — worldwide](https://gs.statcounter.com/os-market-share/mobile/worldwide) and [United States](https://gs.statcounter.com/os-market-share/mobile/united-states-of-america) (monthly CSV series pulled 2026-11-01 for worldwide, US, Europe and India) · [Counterpoint — Q3 2026 shipments −20%](https://counterpointresearch.com/en/insights/global-smartphone-shipments-hit-a-new-low-with-20-percent-yoy-decline-lowest-in-14-years) · [IDC via FoneArena — Q3 2026 shipments −22%](https://www.fonearena.com/blog/495163/global-smartphone-shipments-q3-2026-idc.html) · [Piper Sandler teen survey](https://www.pipersandler.com/teens) · Google-Apple default payments ~$20B/yr: [AppleInsider](https://appleinsider.com/articles/25/05/06/googles-default-search-payments-to-apple-at-risk-in-antitrust-lawsuit)
+- Revenue-line definitions (which line Workspace, Google One, Play and Pixel sit in): [Alphabet FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm) · Play service fees: [Google Play Console Help — service fees](https://support.google.com/googleplay/android-developer/answer/112622) · [9to5Google — external billing from June 30](https://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/)
+- Price, multiples, consensus: StockAnalysis — [history](https://stockanalysis.com/stocks/googl/history/) · [statistics](https://stockanalysis.com/stocks/googl/statistics/) · [forecast](https://stockanalysis.com/stocks/googl/forecast/); daily closes cross-checked against the Yahoo Finance chart API
+- Q3 2026 reaction and context: [CNBC — Q3 results and capex](https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html) · [CNBC — Google and Microsoft hold capex forecasts](https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html) · [Fox News — one-day market-value loss](https://www.foxnews.com/live-news/ai-boom-google-stock-loss-wall-street-10-30-26) · [Yahoo Finance — fair value cut and price-target changes](https://sg.finance.yahoo.com/news/alphabet-googl-stock-sees-fair-131300291.html) · [PPC Land — paid clicks +8%](https://ppc.land/google-ad-clicks-gain-8-in-q3-slower-than-11-over-nine-months/)
+- Anthropic IPO: [Axios — files for IPO](https://www.axios.com/2026/10/26/anthropic-ipo) · [NPR — record-breaking IPO filing](https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records)
+- Secondary (earlier): [Steady Compounding — Q2 10-Q walk-through](https://steadycompounding.com/investing/alphabet-q2-2026/) · [Fortune — DeepMind reshuffle](https://fortune.com/2026/08/05/demis-hassabis-steps-down-google-deepmind-ai-shakeup/) · [DCD — SpaceX compute contract](https://www.datacenterdynamics.com/en/news/google-to-pay-920-million-to-spacex-monthly-for-ai-capacity/) · [Anthropic — Google/Broadcom TPU deal](https://www.anthropic.com/news/google-broadcom-partnership-compute) · [TIKR, 2026-09-24](https://www.tikr.com/blog/alphabet-stock-fell-nearly-4-in-a-day-on-muse-and-ai-price-cuts-heres-what-googles-chip-math-says) · [TechPolicy.Press — ad tech remedies](https://techpolicy.press/a-deep-dive-into-the-antitrust-remedies-that-spared-googles-ad-tech-business) · [Courthouse News — search appeal](https://www.courthousenews.com/doj-urges-dc-circuit-to-beef-up-remedies-in-google-monopoly-ruling/) · [IntelliNews — DMA fine](https://www.intellinews.com/eu-fines-google-890mn-over-search-self-preferencing-play-store-rules-456520/)
